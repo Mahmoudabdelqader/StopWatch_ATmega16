@@ -1,6 +1,6 @@
 # StopWatch_ATmega16
 ## Circuit 
-![image 1] [circuit.png]
+![Alt text](E:\Workspace2\StopWatch_ATmega16\circuit.jpg?raw=true "Title")
 
 ## Counting
 ![alt text] [counting.PNG]
