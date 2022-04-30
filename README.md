@@ -1,6 +1,6 @@
 # StopWatch_ATmega16
 ## Circuit 
-![Alt text](https://github.com/Mahmoudabdelqader/StopWatch_ATmega16/circuit.jpg?raw=true "Title")
+![Alt text](circuit.jbg)
 
 ## Counting
 ![alt text] [counting.PNG]
