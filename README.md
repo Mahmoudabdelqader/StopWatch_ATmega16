@@ -1,6 +1,6 @@
 # StopWatch_ATmega16
 ## Circuit 
-![alt text] [circuit.PNG]
+![image 1] [circuit.png]
 
 ## Counting
 ![alt text] [counting.PNG]
